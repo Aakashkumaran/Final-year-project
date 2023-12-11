@@ -1,0 +1,7 @@
+1. literature survey and comparision
+2. Final Design
+3. Building Modules
+4. Interpretation of Results
+5. GUI Design
+6. Demo
+
